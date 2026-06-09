@@ -2,7 +2,7 @@
 
 ## Integrantes
 
-| Nome | RM |
+
 | Lucca Natario do Vale | RM95688 |
 | Thiago Feltrin Geraldes | RM555805 |
 | Danilo Affonso Luz Rios | RM554791 |
