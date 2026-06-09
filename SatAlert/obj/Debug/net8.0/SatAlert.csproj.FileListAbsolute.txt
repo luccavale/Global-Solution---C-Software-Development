@@ -1,0 +1,14 @@
+C:\Users\Lucca\Desktop\GS - C#\SatAlert\SatAlert\SatAlert\bin\Debug\net8.0\SatAlert.exe
+C:\Users\Lucca\Desktop\GS - C#\SatAlert\SatAlert\SatAlert\bin\Debug\net8.0\SatAlert.deps.json
+C:\Users\Lucca\Desktop\GS - C#\SatAlert\SatAlert\SatAlert\bin\Debug\net8.0\SatAlert.runtimeconfig.json
+C:\Users\Lucca\Desktop\GS - C#\SatAlert\SatAlert\SatAlert\bin\Debug\net8.0\SatAlert.dll
+C:\Users\Lucca\Desktop\GS - C#\SatAlert\SatAlert\SatAlert\bin\Debug\net8.0\SatAlert.pdb
+C:\Users\Lucca\Desktop\GS - C#\SatAlert\SatAlert\SatAlert\obj\Debug\net8.0\SatAlert.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucca\Desktop\GS - C#\SatAlert\SatAlert\SatAlert\obj\Debug\net8.0\SatAlert.AssemblyInfoInputs.cache
+C:\Users\Lucca\Desktop\GS - C#\SatAlert\SatAlert\SatAlert\obj\Debug\net8.0\SatAlert.AssemblyInfo.cs
+C:\Users\Lucca\Desktop\GS - C#\SatAlert\SatAlert\SatAlert\obj\Debug\net8.0\SatAlert.csproj.CoreCompileInputs.cache
+C:\Users\Lucca\Desktop\GS - C#\SatAlert\SatAlert\SatAlert\obj\Debug\net8.0\SatAlert.dll
+C:\Users\Lucca\Desktop\GS - C#\SatAlert\SatAlert\SatAlert\obj\Debug\net8.0\refint\SatAlert.dll
+C:\Users\Lucca\Desktop\GS - C#\SatAlert\SatAlert\SatAlert\obj\Debug\net8.0\SatAlert.pdb
+C:\Users\Lucca\Desktop\GS - C#\SatAlert\SatAlert\SatAlert\obj\Debug\net8.0\SatAlert.genruntimeconfig.cache
+C:\Users\Lucca\Desktop\GS - C#\SatAlert\SatAlert\SatAlert\obj\Debug\net8.0\ref\SatAlert.dll

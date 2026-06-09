@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "fRvPQ5Zt1Xs=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lucca\\Desktop\\GS - C#\\SatAlert\\SatAlert\\SatAlert\\SatAlert.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lucca\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.27\\microsoft.windowsdesktop.app.ref.8.0.27.nupkg.sha512",
+    "C:\\Users\\Lucca\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.27\\microsoft.netcore.app.ref.8.0.27.nupkg.sha512",
+    "C:\\Users\\Lucca\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.27\\microsoft.aspnetcore.app.ref.8.0.27.nupkg.sha512",
+    "C:\\Users\\Lucca\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.27\\microsoft.netcore.app.host.win-x64.8.0.27.nupkg.sha512"
+  ],
+  "logs": []
+}
